@@ -1,7 +1,5 @@
 #include "ofx_Tools.h"
 
-
-
 glm::vec3 Tools::getMouseCoords(bool inNDC)
 {
     int width = ofGetWindowWidth();
